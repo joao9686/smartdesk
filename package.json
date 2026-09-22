@@ -1,0 +1,20 @@
+{
+  "name": "smartdesk",
+  "version": "1.0.0",
+  "description": "\"Sistema de chamados para suporte de TI\"",
+  "homepage": "https://github.com/joao9686/smartdesk#readme",
+  "bugs": {
+    "url": "https://github.com/joao9686/smartdesk/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao9686/smartdesk.git"
+  },
+  "license": "MIT",
+  "author": "Joao",
+  "type": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
